@@ -20,7 +20,7 @@ body {
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
   .aaa {
     text-align: center;
   }
@@ -47,13 +47,13 @@ ul {
   padding: 0px;
 }
 
-li, 
+li,
 h3 {
   list-style: none;
 }
 
 input,
-button{
+button {
   outline: none;
 }
 
