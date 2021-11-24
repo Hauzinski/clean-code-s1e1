@@ -114,8 +114,7 @@ input,
 }
 
 #new-task__text {
-  width: 318px;
-  color: red;
+  width: 318px;  
 }
 
 /* Task list */
@@ -152,7 +151,7 @@ input,
 
 /* Completed */
 
-#completed-task__list label {
+#completed-task__list .task-label {
   text-decoration: line-through;
   color: #888888;
 }
